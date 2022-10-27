@@ -1,0 +1,161 @@
+Purchasing a card from a deck with a weight of 8000
+---------------------------------------------------
+Damage has been purchased 0 times and has a current weight of 6400 (80.00%)
+Critical Coin has been purchased 0 times and has a current weight of 1360 (17.00%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.00%)
+Picked Critical Coin
+
+Purchasing a card from a deck with a weight of 7983
+---------------------------------------------------
+Damage has been purchased 0 times and has a current weight of 6400 (80.17%)
+Critical Coin has been purchased 1 times and has a current weight of 1343 (16.82%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.01%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7903
+---------------------------------------------------
+Damage has been purchased 1 times and has a current weight of 6320 (79.97%)
+Critical Coin has been purchased 1 times and has a current weight of 1343 (16.99%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.04%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7823
+---------------------------------------------------
+Damage has been purchased 2 times and has a current weight of 6240 (79.76%)
+Critical Coin has been purchased 1 times and has a current weight of 1343 (17.17%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.07%)
+Picked Critical Coin
+
+Purchasing a card from a deck with a weight of 7806
+---------------------------------------------------
+Damage has been purchased 2 times and has a current weight of 6240 (79.94%)
+Critical Coin has been purchased 2 times and has a current weight of 1326 (16.99%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.07%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7726
+---------------------------------------------------
+Damage has been purchased 3 times and has a current weight of 6160 (79.73%)
+Critical Coin has been purchased 2 times and has a current weight of 1326 (17.16%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.11%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7646
+---------------------------------------------------
+Damage has been purchased 4 times and has a current weight of 6080 (79.52%)
+Critical Coin has been purchased 2 times and has a current weight of 1326 (17.34%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.14%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7566
+---------------------------------------------------
+Damage has been purchased 5 times and has a current weight of 6000 (79.30%)
+Critical Coin has been purchased 2 times and has a current weight of 1326 (17.53%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.17%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7486
+---------------------------------------------------
+Damage has been purchased 6 times and has a current weight of 5920 (79.08%)
+Critical Coin has been purchased 2 times and has a current weight of 1326 (17.71%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.21%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7406
+---------------------------------------------------
+Damage has been purchased 7 times and has a current weight of 5840 (78.85%)
+Critical Coin has been purchased 2 times and has a current weight of 1326 (17.90%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.24%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7326
+---------------------------------------------------
+Damage has been purchased 8 times and has a current weight of 5760 (78.62%)
+Critical Coin has been purchased 2 times and has a current weight of 1326 (18.10%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.28%)
+Picked Critical Coin
+
+Purchasing a card from a deck with a weight of 7309
+---------------------------------------------------
+Damage has been purchased 8 times and has a current weight of 5760 (78.81%)
+Critical Coin has been purchased 3 times and has a current weight of 1309 (17.91%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.28%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7229
+---------------------------------------------------
+Damage has been purchased 9 times and has a current weight of 5680 (78.57%)
+Critical Coin has been purchased 3 times and has a current weight of 1309 (18.11%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.32%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7149
+---------------------------------------------------
+Damage has been purchased 10 times and has a current weight of 5600 (78.33%)
+Critical Coin has been purchased 3 times and has a current weight of 1309 (18.31%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.36%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 7069
+---------------------------------------------------
+Damage has been purchased 11 times and has a current weight of 5520 (78.09%)
+Critical Coin has been purchased 3 times and has a current weight of 1309 (18.52%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.40%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 6989
+---------------------------------------------------
+Damage has been purchased 12 times and has a current weight of 5440 (77.84%)
+Critical Coin has been purchased 3 times and has a current weight of 1309 (18.73%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.43%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 6909
+---------------------------------------------------
+Damage has been purchased 13 times and has a current weight of 5360 (77.58%)
+Critical Coin has been purchased 3 times and has a current weight of 1309 (18.95%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.47%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 6829
+---------------------------------------------------
+Damage has been purchased 14 times and has a current weight of 5280 (77.32%)
+Critical Coin has been purchased 3 times and has a current weight of 1309 (19.17%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.51%)
+Picked Damage
+
+Purchasing a card from a deck with a weight of 6749
+---------------------------------------------------
+Damage has been purchased 15 times and has a current weight of 5200 (77.05%)
+Critical Coin has been purchased 3 times and has a current weight of 1309 (19.40%)
+Energy Shield has been purchased 0 times and has a current weight of 240 (3.56%)
+Picked Energy Shield
+
+Purchasing a card from a deck with a weight of 6746
+---------------------------------------------------
+Damage has been purchased 15 times and has a current weight of 5200 (77.08%)
+Critical Coin has been purchased 3 times and has a current weight of 1309 (19.40%)
+Energy Shield has been purchased 1 times and has a current weight of 237 (3.51%)
+Picked Critical Coin
+
+Damage
+======
+Purchased: 15 / 80
+Rank: 3
+Value: 2.4
+Increase tower damage by x2.4
+
+Critical Coin
+=============
+Purchased: 4 / 80
+Rank: 2
+Value: 0.18
+If a basic enemy dies from a critical shot it has a chance to drop coins of 18%
+
+Energy Shield
+=============
+Purchased: 1 / 80
+Rank: 1
+Value: 20
+Shield that ignores a single attack, replenishes after 20 min
+
