@@ -70,7 +70,8 @@ namespace TowerCardsWeightedDeckExample
 
         public int PurchaseWeight => (TotalPurchasesPerCard - Purchased) * (int)this.Rarity;
 
-        public override string ToString() {
+        public override string ToString()
+        {
             return @$"{Name}
 {new string('=', Name.Length)}
 Purchased: {Purchased} / {TotalPurchasesPerCard}
