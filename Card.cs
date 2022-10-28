@@ -19,8 +19,7 @@ namespace TowerCardsWeightedDeckExample
         public Card(
             string name,
             Rarity rarity,
-            Func<float,
-            string> getDescription,
+            Func<float, string> getDescription,
             float[] rankValues,
             int purchased = 0,
             bool equipped = false,
