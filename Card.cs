@@ -47,7 +47,8 @@ namespace TowerCardsWeightedDeckExample
 
         public float Value => Rank == 0 ? 0 : RankValues[Rank - 1];
 
-        public int Rank {
+        public int Rank
+        {
             get
             {
                 int rank = 0;
